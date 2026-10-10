@@ -1,0 +1,14 @@
+node_modules/
+backend/venv/
+backend/.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+dist/
+build/
+coverage/
+*.log
+backend/data/uploads/
+backend/data/reports/
